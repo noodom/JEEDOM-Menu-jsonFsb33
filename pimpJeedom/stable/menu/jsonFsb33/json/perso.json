@@ -1,32 +1,31 @@
 {
-    "buttons": [
+    "buttons": [{
+            "link": "2",
+            "icon": "montheme/img/icon_home.png"
+        },
         {
-            "link": "1",
-            "icon": "montheme/images/icon_home.png"
+            "link": "3",
+            "icon": "montheme/img/icon_light.png"
+        },
+        {
+            "link": "4",
+            "icon": "montheme/img/icon_temp.png"
         },
         {
             "link": "5",
-            "icon": "montheme/images/icon_light.png"
+            "icon": "montheme/img/icon_camera.png"
         },
         {
             "link": "6",
-            "icon": "montheme/images/icon_thermometre.png"
+            "icon": "montheme/img/icon_music.png"
         },
         {
             "link": "7",
-            "icon": "montheme/images/icon_alarme.png"
+            "icon": "montheme/img/icon_reseau.png"
         },
         {
-            "link": "11",
-            "icon": "montheme/images/icon_cast.png"
-        },
-        {
-            "link": "9",
-            "icon": "montheme/images/icon_plante.png"
-        },
-        {
-            "link": "10",
-            "icon": "montheme/images/icon_consomation.png"
+            "link": "8",
+            "icon": "montheme/img/icon_consomation.png"
         }
     ]
 }
